@@ -1,0 +1,17 @@
+[
+	{
+		"name":"example.com",
+		"sites": ["example.com","loudsrl.com"],
+		"user": "ubuntu",
+		"host": "123.3.654.7",
+		"password": "HAve aNiceAndLongPassword12",
+		"key": ""
+	},
+	{
+		"name":"second.example.com",
+		"sites": ["First and only site"],
+		"user": "root",
+		"host": "4.234.64.345",
+		"key": "/Users/<you-name>/.ssh/id_rsa"
+	}
+]
